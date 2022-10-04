@@ -9,7 +9,7 @@ This is the .NET SDK for customize logger based on [Application Insights Logger]
 
 ## using GreenDot Application Insight Logger
 
-### 1. Install package ---(cmd) dotnet add [project name] package GreenDotShares.Logger --version 1.0.1
+### 1. Install package ---(cmd) dotnet add [project name] package GreenDotLogger --version 1.0.1
 
 ### 2. Implement interface IMaskService, example HttpFunctionAppTest.MaskService, example [https://github.com/dchen1-greendotcorp/HttpFunctionAppLogTest]
 
