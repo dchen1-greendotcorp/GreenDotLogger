@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace GreenDotShares
+namespace GreenDotLogger
 {
     [ProviderAlias(Alias)]
     public class GDApplicationInsightsLoggerProvider : ILoggerProvider

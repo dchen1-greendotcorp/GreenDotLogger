@@ -6,7 +6,7 @@ using Microsoft.Extensions.Logging.ApplicationInsights;
 using Microsoft.Extensions.Logging;
 using static Microsoft.AspNetCore.Hosting.Internal.HostingApplication;
 
-namespace GreenDotShares
+namespace GreenDotLogger
 {
     public static class GreendotCoreStartHelper
     {
@@ -30,7 +30,7 @@ namespace GreenDotShares
 
             serviceCollection.AddSingleton<ApplicationInsightsLoggerOptions>();
 
-            //serviceCollection.AddSingleton<IMaskService, MaskService>();
+            serviceCollection.AddSingleton<IMaskService, MaskService>();
 
             serviceCollection.AddSingleton<ILoggerProvider, GDApplicationInsightsLoggerProvider>();
 

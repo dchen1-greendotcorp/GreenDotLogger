@@ -8,8 +8,8 @@
 		<id>GreednDotLogger</id>
 		<tags>>GreenDotLogger</tags>
 		<AssemblyName>GreenDotLogger</AssemblyName>
-		<AssemblyVersion>1.0.1</AssemblyVersion>
-		<Version>1.0.1</Version>
+		<AssemblyVersion>2.0.1</AssemblyVersion>
+		<Version>2.0.1</Version>
 		<RepositoryUrl>https://github.com/dchen1-greendotcorp/GreenDotLogger</RepositoryUrl>
 		<PackageDescription>This package provides GDApplicationInsightsLoggerProvider</PackageDescription>
 	</PropertyGroup>

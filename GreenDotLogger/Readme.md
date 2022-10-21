@@ -4,7 +4,7 @@
 This is the .NET SDK for customize logger based on [Application Insights Logger](https://learn.microsoft.com/en-us/azure/azure-monitor/app/ilogger).
 
 ## NuGet packages
-[GreenDotShares.Logger Package](https://github.com/dchen1-greendotcorp/GreenDotLogger/packages/1657549)
+[GreenDotLogger.Logger Package](https://github.com/dchen1-greendotcorp/GreenDotLogger/packages/1657549)
 [Code Repo] (https://github.com/dchen1-greendotcorp/GreenDotLogger)
 
 ## using GreenDot Application Insight Logger

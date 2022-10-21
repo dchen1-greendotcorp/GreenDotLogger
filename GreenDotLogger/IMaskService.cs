@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 
-namespace GreenDotShares
+namespace GreenDotLogger
 {
     public interface IMaskService
     {
